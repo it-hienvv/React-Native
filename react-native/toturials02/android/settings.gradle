@@ -1,0 +1,3 @@
+rootProject.name = 'toturials02'
+
+include ':app'

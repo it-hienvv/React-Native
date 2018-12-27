@@ -1,0 +1,4 @@
+flex-start: T? trái sang ph?i, t? trên xu?ng du?i 
+flex-end: T? trái sang ph?i , t? du?i lên trên
+
+npm install react-native-button --save
